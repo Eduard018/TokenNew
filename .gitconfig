@@ -1,0 +1,7 @@
+[http]
+	sslVerify = false
+[credential]
+	helper = store
+[user]
+	name = Eduard Simion
+	email = ionuteduardsimion@outlook.com
